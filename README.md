@@ -15,7 +15,7 @@ It provides real-time **object detection** and can be extended to show **segment
 ---
 
 ## 🎥 Demo
-[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](demo.mp4)
+[![Watch the video](https://github.com/624mihir/car_damage_app/issues/1#issue-3336868101)
 
 
 ## ⚡ Installation & Usage
