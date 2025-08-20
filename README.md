@@ -17,6 +17,16 @@ It provides real-time **object detection** and can be extended to show **segment
 ## 🎥 Demo
 [![Watch the video](https://github.com/624mihir/car_damage_app/issues/1#issue-3336868101)
 
+## 🧠 Model Info
+
+-Framework: Ultralytics YOLOv8
+-Task: Damage Detection
+-Trained on: Custom dataset with car damage annotations
+-Weights: runs/detect/train2/weights/best.pt
+
+## License
+This project is licensed under the MIT License. Feel free to use and modify it.
+
 
 ## ⚡ Installation & Usage
 
